@@ -423,7 +423,8 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![github-alt][github-img]](https://github.com/fabipriscila)
 
 # G
-
+### Gabriel Dantas
+- I am a computer scientist
 ### Gargi
 - I am an Undergraduate .
 - I like competitive programming. 
